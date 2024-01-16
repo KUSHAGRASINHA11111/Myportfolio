@@ -1,6 +1,6 @@
-# Chulindra-portfolio
+# Kushagra Sinha
 
 my portfolio  using html ,css and javascript 
 
 final portfolio link:
-https://iotchulindrarai.github.io/Chulindra-portfolio/
+https://kushagrasinha11111.github.io/Myportfolio/
